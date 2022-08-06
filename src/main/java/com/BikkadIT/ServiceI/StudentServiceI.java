@@ -10,6 +10,7 @@ public int addStudent(Student student);
 	public List<Student> getAllStudent();
 	
 	public Student getStudentById(Integer id);
+	
 
 
 }
